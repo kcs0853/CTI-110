@@ -3,16 +3,6 @@
 # Assignment Name: P1HW2
 # Description: A travel budget calculator that takes user inputs for budget, destination, and expenses, calculates total costs, and outputs the remaining balance.
 
-# === Pseudocode / Logic Steps ===
-# 1. Ask the user to enter their total travel budget as an integer.
-# 2. Ask the user to enter their travel destination string.
-# 3. Ask the user for gas expenses as an integer.
-# 4. Ask the user for hotel/accommodation expenses as an integer.
-# 5. Ask the user for food expenses as an integer.
-# 6. Add all travel expenses together (gas + accommodation + food).
-# 7. Subtract total expenses from the budget to get the remaining balance.
-# 8. Print out the structured summary table exactly matching the format.
-
 print("This program calculates and displays travel expenses")
 print()
 
